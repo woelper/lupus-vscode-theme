@@ -6,6 +6,11 @@
     "engines": {
         "vscode": "^1.55.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/woelper/lupus-vscode-theme.git"
+      },
+    "publisher": "jwoelper",
     "categories": [
         "Themes"
     ],

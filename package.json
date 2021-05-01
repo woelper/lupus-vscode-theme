@@ -2,7 +2,7 @@
     "name": "lupus",
     "displayName": "lupus",
     "description": "A very grey VSCode theme",
-    "version": "0.0.4",
+    "version": "0.0.6",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.55.0"

@@ -1,5 +1,5 @@
 {
-  "name": "lupus",
+  "name": "lupus2",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -2035,7 +2035,7 @@
     "gitDecoration.untrackedResourceForeground": "#73c991",
     "editorMarkerNavigation.background": "#2d2d30",
     "editorMarkerNavigationError.background": "#f48771",
-    "editorMarkerNavigationWarning.background": "#cca700",
+    "editorMarkerNavigationWarning.background": "#f9ff4a",
     "editorMarkerNavigationInfo.background": "#528421",
     "merge.currentHeaderBackground": "#367366",
     "merge.currentContentBackground": "#27403B",
@@ -2054,8 +2054,8 @@
     "peekView.border": "#528421",
     "peekViewEditor.background": "#2a2a2a",
     "peekViewEditorGutter.background": "#303030",
-    "peekViewEditor.matchHighlightBackground": "#ff8f0099",
-    "peekViewEditor.matchHighlightBorder": "#ee931e",
+    "peekViewEditor.matchHighlightBackground": "#fdad4699",
+    "peekViewEditor.matchHighlightBorder": "#00000000",
     "peekViewResult.background": "#252526",
     "peekViewResult.fileForeground": "#ffffff",
     "peekViewResult.lineForeground": "#bbbbbb",

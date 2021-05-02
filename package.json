@@ -1,27 +1,27 @@
 {
-    "name": "lupus",
-    "displayName": "lupus",
-    "description": "A very grey VSCode theme",
-    "version": "0.0.6",
-    "icon": "icon.png",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/woelper/lupus-vscode-theme.git"
-      },
-    "publisher": "jwoelper",
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Lupus Color Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/lupus.json"
-            }
-        ]
-    }
+  "name": "lupus",
+  "displayName": "lupus",
+  "description": "A very grey VSCode theme",
+  "version": "0.0.8",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/woelper/lupus-vscode-theme.git"
+  },
+  "publisher": "jwoelper",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lupus Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lupus.json"
+      }
+    ]
+  }
 }
